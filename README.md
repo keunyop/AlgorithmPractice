@@ -14,4 +14,6 @@ easy
 
 > [263.Ugly Number (with TDD)](http://samurae83.blog.me/221333346390)
 
+> [268.Missing Number (with TDD)](https://leetcode.com/problems/missing-number)
+
 > [832.Flipping an Image (with TDD)](https://leetcode.com/problems/flipping-an-image)
