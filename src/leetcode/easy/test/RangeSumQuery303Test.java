@@ -21,5 +21,4 @@ class RangeSumQuery303Test {
         // Test 3
         assertEquals(-3, rsq303.sumRange(0, 5));
     }
-
 }
