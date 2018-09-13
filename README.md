@@ -1,10 +1,11 @@
+
 # AlgorithmPractice
 
-Practice algorithms
+**Practice algorithms**
 
-LeetCode
+**LeetCode**
 
-easy
+**easy**
 
 > [1.Two Sum (with TDD)](http://samurae83.blog.me/221342690123)
 
@@ -21,3 +22,7 @@ easy
 > [303.Range Sum Query - Immutable (with TDD)](http://samurae83.blog.me/221356492121)
 
 > [832.Flipping an Image (with TDD)](https://leetcode.com/problems/flipping-an-image)
+
+**Medium**
+
+> [153.Find Minimum in Rotated Sorted Array (with TDD)](http://samurae83.blog.me/221358344812)
