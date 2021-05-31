@@ -1,9 +1,7 @@
 
 # AlgorithmPractice
 
-**Practice algorithms**
-
-**LeetCode**
+**Practice algorithms using LeetCode**
 
 **easy**
 
